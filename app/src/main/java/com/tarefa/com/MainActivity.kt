@@ -90,7 +90,7 @@ fun DogImageScreen() {
                         imageUrl = response.message
                         nomeDaRacaDoCao = f(imageUrl.toString())
 //                        println("Testando")
-//                        println(imageUrl!!)
+//                        println(imageUrl!!) jjjs
 //                        println(imageUrl)
 //                        println(imageUrl.toString())
 
